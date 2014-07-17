@@ -11,7 +11,7 @@ If one or more jumps are possible, you must jump.
 If you start a multiple-jump, you must keep jumping until it is impossible to do so.
 In order to initiate multi-jump, enter the directions of the jumps in order.  
 
-Don't any commands that are too stupid or the game will crash.
+Don't enter any commands that are too stupid or the game will crash.
 
 Example moves: 
 
